@@ -10,7 +10,7 @@ Example of PyPI package.
 Instale -> 
 
 ```
-pip install -i https://test.pypi.org/simple/ blogdomarcio-firstpackage==0.0.1
+pip install -i https://test.pypi.org/simple/ blogdomarcio-firstpackage
 ```
 
 import no seu shell :
